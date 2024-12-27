@@ -1,0 +1,59 @@
+.roboto-light {
+    font-family: "Roboto", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+body {
+    background-color: black;
+}
+.post {
+    background-color: white;
+    width: 450px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 37.5%;
+    margin-top: 6%;
+}
+.header {
+    width: 100%;
+    height: 9.5%;
+    display: flex;
+    flex-direction: row;
+}
+.header img {
+    margin-left: 10px;
+    margin-top: 8px;
+    height: 49px;
+}
+.header p {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.header i {
+    margin-top: 32px;
+    margin-left: 300px;
+}
+.photo {
+    width: 100%;
+    height: 60%;
+}
+.photo img {
+    width: 100%;
+    height: 100%;
+}
+.body {
+    width: 100%;
+    height: 30.5%;
+}
+span.left-icons {
+    margin-left: 10px;
+    margin-right: 295px;
+}
+.first {
+    margin-left: 13px;
+}
+.second {
+    margin-left: 13px;
+    margin-right: 13px;
+}
